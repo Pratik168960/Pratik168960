@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00D2FF,100:3A0CA3&height=150&section=header&text=Pratik%20Singh&fontSize=60&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Creative Technologist</h3>
+<h3 align="center">🚀 Full Stack Developer | Creative Technologist | Software Engineer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pratiksingh16">
