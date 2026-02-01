@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Pratik%20Singh&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Pratik%20Singh&fontSize=60&animation=fadeIn&fontAlignY=60&theme=tokyonight" width="50%" />
 
 ### 🚀 Full Stack Developer | Creative Technologist
 
