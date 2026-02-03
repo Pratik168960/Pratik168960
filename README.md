@@ -28,13 +28,16 @@
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik168960&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik168960&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratik168960&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pratik168960&theme=tokyonight&hide_border=true&v=1" alt="Streak Card" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A0CA3&height=100&section=footer" width="100%" />
 </p>
+
+
+
