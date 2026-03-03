@@ -37,6 +37,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A0CA3&height=100&section=footer" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ## 🛠 Core Arsenal
 
 <p align="center">
