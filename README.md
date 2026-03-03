@@ -33,9 +33,6 @@
   <img src="https://streak-stats.demolab.com?user=Pratik168960&theme=tokyonight&hide_border=true&v=1" alt="Streak Card" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A0CA3&height=100&section=footer" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -45,4 +42,17 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,blender,github,vscode&theme=dark&perline=9" />
+</p>
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A0CA3&height=100&section=footer" width="100%" />
 </p>
