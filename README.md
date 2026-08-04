@@ -70,40 +70,7 @@
 <!-- FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
 
-> _Here's a curated selection of what I've been building. More on my [repositories](https://github.com/Pratik168960?tab=repositories)._
-
-<table>
-  <thead>
-    <tr>
-      <th>🎯 Project</th>
-      <th>📝 Description</th>
-      <th>🔧 Tech</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><!-- TODO: Project Name --></b></td>
-      <td><!-- TODO: One-line description --></td>
-      <td><img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" height="25" /></td>
-      <td><a href="#">🔗 Repo</a> · <a href="#">🌐 Live</a></td>
-    </tr>
-    <tr>
-      <td><b><!-- TODO: Project Name --></b></td>
-      <td><!-- TODO: One-line description --></td>
-      <td><img src="https://skillicons.dev/icons?i=python,flutter&theme=dark" height="25" /></td>
-      <td><a href="#">🔗 Repo</a> · <a href="#">🌐 Live</a></td>
-    </tr>
-    <tr>
-      <td><b><!-- TODO: Project Name --></b></td>
-      <td><!-- TODO: One-line description --></td>
-      <td><img src="https://skillicons.dev/icons?i=js,mongodb&theme=dark" height="25" /></td>
-      <td><a href="#">🔗 Repo</a> · <a href="#">🌐 Live</a></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
@@ -139,9 +106,7 @@
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <i>✨ "First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A0CA3&height=120&section=footer" width="100%" />
