@@ -41,13 +41,6 @@
 💡 Turning ideas into elegant, scalable code — one commit at a time.
 ```
 
-- 🔭 **Currently working on:** `<!-- TODO: e.g., a full-stack SaaS platform / an open-source CLI tool -->`
-- 🌱 **Currently learning:** `<!-- TODO: e.g., System Design, Kubernetes, or Rust -->`
-- 👯 **Looking to collaborate on:** `<!-- TODO: e.g., open-source projects, hackathons, or innovative startups -->`
-- 💬 **Ask me about:** `<!-- TODO: e.g., React, Node.js, Cloud Architecture, or competitive programming -->`
-- 📫 **How to reach me:** [pratiksingh111252@gmail.com](mailto:pratiksingh111252@gmail.com)
-- ⚡ **Fun fact:** `<!-- TODO: e.g., I once debugged a production issue at 3 AM while eating pizza 🍕 -->`
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
