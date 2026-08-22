@@ -38,7 +38,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p profile
-          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=0B0614&ring=7C3AED&fire=C4B5FD&currStreakLabel=F5EDE0" -o profile/streak.svg
+          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=0B0614&ring=A78BFA&fire=F5EDE0&currStreakNum=F5EDE0&sideNums=F5EDE0&currStreakLabel=F5EDE0&sideLabels=E8E0D4&dates=C4B5FD&stroke=A78BFA" -o profile/streak.svg
 
       - name: Trophy card
         continue-on-error: true

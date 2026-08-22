@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,50:3B0764,100:7C3AED&height=220&section=header&text=PRATIK%20SINGH&fontSize=52&fontColor=F5EDE0&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C++%20%7C%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Pratik Singh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,50:3B0764,100:7C3AED&height=240&section=header&text=PRATIK%20SINGH&fontSize=50&fontColor=F5EDE0&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=56&animation=twinkling" width="100%" alt="Pratik Singh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=740&height=50&lines=Build+it+weird.+Then+make+it+reliable.;C++%2C+contests%2C+then+ship+the+product.;Currently+learning+LangChain%2C+LLMs%2C+and+RAG." alt="intro" />
+  <img src="./profile/octocat-superbike.png" width="92%" alt="Octocat riding a superbike" />
+</p>
+
+<p align="center">
+  <img src="./profile/nyantocat.gif" width="200" alt="Nyantocat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Build+it+weird.+Then+make+it+reliable.;Code+until+it+clicks.+Then+code+until+it+lasts.;Turning+caffeine+into+commits." alt="intro" />
 </p>
 
 <p align="center">
@@ -17,23 +25,28 @@
   <a href="mailto:pratiksingh111252@gmail.com"><img src="https://img.shields.io/badge/Email-0B0614?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065486e.gif" width="100%" alt="" />
+</p>
+
 ---
 
-<h2 align="center">About me</h2>
+<h2 align="center">
+  About me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" alt="" />
+</h2>
 
 <p align="center">
-  I am a full-stack developer who likes competitive programming and building products that actually ship.<br/>
-  Outside of code I watch films and make art — that is just the side of the brain that keeps ideas interesting, not the whole personality.
+  Full-stack developer, competitive programmer, and AI enthusiast.<br/>
+  I like building things people can actually use — and winning the argument with the compiler along the way.
 </p>
 
 <p align="center">
-  <b>How I build:</b> start with a strange first version. Then harden it until it is reliable.<br/>
-  Surprise people in the draft. Do not surprise them at 2 a.m. in production.
+  <b>How I build:</b> build it weird. Then make it reliable.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/now-LangChain%20·%20LLMs%20·%20RAG-7c3aed?style=for-the-badge&labelColor=0B0614" alt="now" />
-  <img src="https://img.shields.io/badge/ask_me_about-C++%20·%20React%20·%20Node-C4B5FD?style=for-the-badge&labelColor=0B0614&color=3B0764" alt="ask" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750150-5ce90163-0b36-4a36-9d94-a62ef20d47ae.gif" width="400" alt="" />
 </p>
 
 ---
@@ -42,37 +55,33 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>Every day</h3>
-      <p>Contest clock. Blank editor. C++.</p>
-      <p><kbd>C++</kbd> &nbsp; <kbd>LeetCode</kbd> &nbsp; <kbd>Codeforces</kbd></p>
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+    <td align="center" width="50%">
+      <h3>Daily</h3>
+      <p>Competitive programming, GitHub, Python, and JavaScript.</p>
+      <p><kbd>CP</kbd> &nbsp; <kbd>GitHub</kbd> &nbsp; <kbd>Python</kbd> &nbsp; <kbd>JS</kbd></p>
+      <img src="https://skillicons.dev/icons?i=cpp,python,js,github&theme=dark" alt="daily" />
     </td>
-    <td align="center" width="34%">
-      <h3>When I ship</h3>
-      <p>Full-stack product work.</p>
-      <p><kbd>React</kbd> <kbd>Node</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd><br/>
-      <kbd>Flutter</kbd> <kbd>Java</kbd> <kbd>Python</kbd> <kbd>GCP</kbd></p>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,java,python,gcp&theme=dark" alt="stack" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Exploring</h3>
-      <p>AI tools I am learning now.</p>
-      <p><kbd>LangChain</kbd> &nbsp; <kbd>LLMs</kbd> &nbsp; <kbd>RAG</kbd></p>
-      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" />
+    <td align="center" width="50%">
+      <h3>Heavy</h3>
+      <p>MERN when it ships. Java when it has to scale.</p>
+      <p><kbd>MongoDB</kbd> <kbd>Express</kbd> <kbd>React</kbd> <kbd>Node</kbd> <kbd>Java</kbd></p>
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java&theme=dark" alt="heavy" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,blender&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,vscode,gcp,blender&theme=dark" alt="tools" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-87d80e18-3d6b-4d71-9046-6b8fe26d5b82.gif" width="60" alt="spin" />
 </p>
 
 ---
 
 <h2 align="center">GitHub</h2>
 
-<!-- These images live in this repo. Public Vercel stats/trophy hosts are often paused or return 402. -->
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
   <img src="./profile/streak.svg" alt="GitHub streak" height="170" />
@@ -94,10 +103,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bee5d89f-8f13-43ec-9275-3262231ff30f.gif" width="70" alt="rocket" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B0614&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B0614&height=120&section=footer&animation=twinkling" width="100%" alt="" />
 </p>
 
 <p align="center">
