@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/octocat-ride.gif?v=5" alt="Octocat on a superbike" />
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/octocat-ride.gif?v=6" alt="Octocat on a superbike" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065486e.gif" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=6" width="100%" alt="" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750150-5ce90163-0b36-4a36-9d94-a62ef20d47ae.gif" width="400" alt="" />
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/developer.gif?v=1" width="220" alt="" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-87d80e18-3d6b-4d71-9046-6b8fe26d5b82.gif" width="60" alt="spin" />
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/spin.gif?v=1" width="64" alt="spin" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bee5d89f-8f13-43ec-9275-3262231ff30f.gif" width="70" alt="rocket" />
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/rocket.png?v=1" width="72" alt="rocket" />
 </p>
 
 ---
