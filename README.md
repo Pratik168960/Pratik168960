@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile/octocat-superbike.png" width="92%" alt="Octocat riding a superbike" />
-</p>
-
-<p align="center">
-  <img src="./profile/nyantocat.gif" width="200" alt="Nyantocat" />
+  <img src="./profile/octocat-sticker.gif" width="520" alt="Octocat on a superbike" />
 </p>
 
 <p align="center">
