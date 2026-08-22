@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,50:3B0764,100:7C3AED&height=240&section=header&text=PRATIK%20SINGH&fontSize=50&fontColor=F5EDE0&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=56&animation=twinkling" width="100%" alt="Pratik Singh" />
 </p>
 
-<!-- GitHub cannot autoplay MP4 in a profile README. An animated GIF in <img> starts as soon as the profile loads. -->
 <p align="center">
-  <img src="./profile/octocat-ride.gif" width="460" alt="Octocat on a superbike" />
+  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/octocat-ride.gif?v=4" alt="Octocat on a superbike" />
 </p>
 
 <p align="center">
