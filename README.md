@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,50:3B0764,100:7C3AED&height=220&section=header&text=PRATIK%20SINGH&fontSize=52&fontColor=F5EDE0&fontAlignY=38&desc=Neural%20Cartographer%20%7C%20Full-Stack%20%7C%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Pratik Singh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,50:3B0764,100:7C3AED&height=220&section=header&text=PRATIK%20SINGH&fontSize=52&fontColor=F5EDE0&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C++%20%7C%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Pratik Singh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=740&height=50&lines=I+watch+sci-fi.+Then+I+try+to+build+it.;I+make+art.+Then+I+make+it+run.;Build+it+weird.+Then+make+it+reliable." alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=740&height=50&lines=Build+it+weird.+Then+make+it+reliable.;C++%2C+contests%2C+then+ship+the+product.;Currently+learning+LangChain%2C+LLMs%2C+and+RAG." alt="intro" />
 </p>
 
 <p align="center">
@@ -22,28 +22,19 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-  I grew up on <b>sci-fi movies</b> and <b>creative art</b>. That mix never left.<br/>
-  I want software to feel like a world you can step into — not a form you have to survive.
+  I am a full-stack developer who likes competitive programming and building products that actually ship.<br/>
+  Outside of code I watch films and make art — that is just the side of the brain that keeps ideas interesting, not the whole personality.
 </p>
 
 <p align="center">
-  <b>My rule:</b> build the weird version first. Then make it reliable.<br/>
-  The first draft should surprise people. The last draft should not break at 2 a.m.
+  <b>How I build:</b> start with a strange first version. Then harden it until it is reliable.<br/>
+  Surprise people in the draft. Do not surprise them at 2 a.m. in production.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/now-LangChain%20·%20LLMs%20·%20RAG-7c3aed?style=for-the-badge&labelColor=0B0614" alt="now" />
-  <img src="https://img.shields.io/badge/talk_to_me_about-C++%20CP%20·%20React%20·%20AI-C4B5FD?style=for-the-badge&labelColor=0B0614&color=3B0764" alt="talk" />
+  <img src="https://img.shields.io/badge/ask_me_about-C++%20·%20React%20·%20Node-C4B5FD?style=for-the-badge&labelColor=0B0614&color=3B0764" alt="ask" />
 </p>
-
-```mermaid
-flowchart LR
-  A[Sci-fi + Art] --> B[Weird prototype]
-  B --> C[Make it reliable]
-  C --> D[Ship it]
-  D --> E[LLMs / RAG]
-  E --> B
-```
 
 ---
 
@@ -66,9 +57,9 @@ flowchart LR
     </td>
     <td align="center" width="33%">
       <h3>Exploring</h3>
-      <p>AI tools I am actually learning.</p>
+      <p>AI tools I am learning now.</p>
       <p><kbd>LangChain</kbd> &nbsp; <kbd>LLMs</kbd> &nbsp; <kbd>RAG</kbd></p>
-      <img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" alt="ai" />
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" />
     </td>
   </tr>
 </table>
@@ -81,25 +72,26 @@ flowchart LR
 
 <h2 align="center">GitHub</h2>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik168960&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0614&title_color=F5EDE0&text_color=D4CBE8&icon_color=C4B5FD&ring_color=7C3AED" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Pratik168960&hide_border=true&background=0B0614&ring=7C3AED&fire=C4B5FD&currStreakLabel=F5EDE0&sideLabels=C4B5FD&currStreakNum=F5EDE0&sideNums=D4CBE8&dates=A78BFA" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik168960&layout=compact&hide_border=true&langs_count=8&bg_color=0B0614&title_color=F5EDE0&text_color=D4CBE8" alt="Top languages" />
-</div>
-
+<!-- These images live in this repo. Public Vercel stats/trophy hosts are often paused or return 402. -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratik168960&theme=tokyonight&column=7&row=1&margin-w=8&margin-h=8&no-bg=false" alt="GitHub trophies" />
+  <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
+  <img src="./profile/streak.svg" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik168960&bg_color=0B0614&color=C4B5FD&line=7C3AED&point=F5EDE0&area=true&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -109,5 +101,5 @@ flowchart LR
 </p>
 
 <p align="center">
-  <i>If you scrolled this far: I still debug like the hero in a sci-fi movie — badly, at first, then all at once.</i>
+  <i>If you made it this far, the bug is probably a missing semicolon. It always is.</i>
 </p>
