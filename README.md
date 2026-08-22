@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Build+it+weird.+Then+make+it+reliable.;Code+until+it+clicks.+Then+code+until+it+lasts.;Turning+caffeine+into+commits." alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Build+it+weird.+Then+make+it+reliable.;Code+until+it+clicks.+Then+code+until+it+lasts." alt="intro" />
 </p>
 
 <p align="center">
