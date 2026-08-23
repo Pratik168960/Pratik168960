@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0B0614&title_color=F5EDE0&text_color=D4CBE8&icon_color=C4B5FD&ring_color=7C3AED
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=090d16&title_color=00F0FF&text_color=E8EEF8&icon_color=FF0055&ring_color=00F0FF
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0B0614&title_color=F5EDE0&text_color=D4CBE8
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=090d16&title_color=00F0FF&text_color=E8EEF8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p profile
-          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=0B0614&ring=A78BFA&fire=F5EDE0&currStreakNum=F5EDE0&sideNums=F5EDE0&currStreakLabel=F5EDE0&sideLabels=E8E0D4&dates=C4B5FD&stroke=A78BFA" -o profile/streak.svg
+          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=090d16&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF&sideNums=E8EEF8&currStreakLabel=FF0055&sideLabels=00F0FF&dates=FF0055&stroke=FF0055" -o profile/streak.svg
 
       - name: Trophy card
         continue-on-error: true
