@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik168960&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="views" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/pratiksingh16"><img src="https://img.shields.io/badge/LinkedIn-0B0614?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" /></a>
   <a href="https://twitter.com/PratikSing14626"><img src="https://img.shields.io/badge/Twitter-0B0614?style=for-the-badge&logo=x&logoColor=C4B5FD" alt="Twitter" /></a>
   <a href="https://instagram.com/pratik.0106"><img src="https://img.shields.io/badge/Instagram-0B0614?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram" /></a>
