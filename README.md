@@ -33,9 +33,6 @@
   I like building things people can actually use — and winning the argument with the compiler along the way.
 </p>
 
-<p align="center">
-  <b>How I build:</b> build it weird. Then make it reliable.
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pratik168960/Pratik168960/main/profile/developer.gif?v=1" width="220" alt="" />
